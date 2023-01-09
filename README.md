@@ -1,6 +1,9 @@
 ### Hi 😀
 
 ## Tecnologías:
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-0049C0?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![ReactNative](https://img.shields.io/badge/ReactNative-0049C0?style=for-the-badge&logo=react&logoColor=white&labelColor=111011)]()
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
